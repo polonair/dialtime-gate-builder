@@ -1,0 +1,10 @@
+Package: dialtime-gate
+Version: 0.1.0
+Section: misc
+Architecture: all
+Depends: asterisk (>=11.7), mysql-server (>=5.5), php5-cli (>=5.5.9), php5-mysql (>=5.5.9), php5-curl(>=5.5.9)
+Maintainer: Alexander Mosyagin <fixnim@gmail.com>
+Origin: Alexander Mosyagin
+Installed-size: XXXXX
+Description: Dialtime Gate
+ Dialtime Gate for Target-Call

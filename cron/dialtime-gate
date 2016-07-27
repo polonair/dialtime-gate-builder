@@ -1,0 +1,1 @@
+*/1 * * * * dialtime /usr/bin/dialtime-gate dialtime:gate:cron
