@@ -9,16 +9,16 @@
     "packages": [
         {
             "name": "dialtime/dialtime",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:polonair/dialtime.git",
-                "reference": "dcf25186c752e4b75ec931c61e49cb700b00be67"
+                "reference": "ca331b63ab2f2897dd52c90525033c7c73893e5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/polonair/dialtime/zipball/dcf25186c752e4b75ec931c61e49cb700b00be67",
-                "reference": "dcf25186c752e4b75ec931c61e49cb700b00be67",
+                "url": "https://api.github.com/repos/polonair/dialtime/zipball/ca331b63ab2f2897dd52c90525033c7c73893e5c",
+                "reference": "ca331b63ab2f2897dd52c90525033c7c73893e5c",
                 "shasum": ""
             },
             "require": {
@@ -43,27 +43,27 @@
             "description": "Dialtime",
             "homepage": "http://dialtime.target-call.ru",
             "support": {
-                "source": "https://github.com/polonair/dialtime/tree/v0.1.0",
+                "source": "https://github.com/polonair/dialtime/tree/v0.1.1",
                 "issues": "https://github.com/polonair/dialtime/issues"
             },
-            "time": "2016-08-01 20:28:48"
+            "time": "2016-08-05 15:57:20"
         },
         {
             "name": "dialtime/gate",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "git@github.com:polonair/dialtime-gate.git",
-                "reference": "6f80fdf1e09e12d751b5bc93df10ba8970aa192f"
+                "reference": "a76d4f09058325e6d55f70b56ee849ae07887964"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/polonair/dialtime-gate/zipball/6f80fdf1e09e12d751b5bc93df10ba8970aa192f",
-                "reference": "6f80fdf1e09e12d751b5bc93df10ba8970aa192f",
+                "url": "https://api.github.com/repos/polonair/dialtime-gate/zipball/a76d4f09058325e6d55f70b56ee849ae07887964",
+                "reference": "a76d4f09058325e6d55f70b56ee849ae07887964",
                 "shasum": ""
             },
             "require": {
-                "dialtime/dialtime": "0.1.0"
+                "dialtime/dialtime": "0.1.1"
             },
             "type": "symfony-bundle",
             "autoload": {
@@ -84,10 +84,10 @@
             "description": "Dialtime Gate Bundle",
             "homepage": "http://dialtime.target-call.ru",
             "support": {
-                "source": "https://github.com/polonair/dialtime-gate/tree/v0.1.0",
+                "source": "https://github.com/polonair/dialtime-gate/tree/v0.1.1",
                 "issues": "https://github.com/polonair/dialtime-gate/issues"
             },
-            "time": "2016-08-01 20:35:51"
+            "time": "2016-08-06 08:43:02"
         },
         {
             "name": "doctrine/annotations",
