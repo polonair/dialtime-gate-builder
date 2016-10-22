@@ -50,16 +50,16 @@
         },
         {
             "name": "dialtime/gate",
-            "version": "0.1.2",
+            "version": "0.1.3",
             "source": {
                 "type": "git",
                 "url": "git@github.com:polonair/dialtime-gate.git",
-                "reference": "b53304941aa0b2ffb5ed53cacb65614242b705dc"
+                "reference": "0e36846b62aff7743944d3935d51f8e0d230f48a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/polonair/dialtime-gate/zipball/b53304941aa0b2ffb5ed53cacb65614242b705dc",
-                "reference": "b53304941aa0b2ffb5ed53cacb65614242b705dc",
+                "url": "https://api.github.com/repos/polonair/dialtime-gate/zipball/0e36846b62aff7743944d3935d51f8e0d230f48a",
+                "reference": "0e36846b62aff7743944d3935d51f8e0d230f48a",
                 "shasum": ""
             },
             "require": {
@@ -84,10 +84,10 @@
             "description": "Dialtime Gate Bundle",
             "homepage": "http://dialtime.target-call.ru",
             "support": {
-                "source": "https://github.com/polonair/dialtime-gate/tree/v0.1.2",
+                "source": "https://github.com/polonair/dialtime-gate/tree/v0.1.3",
                 "issues": "https://github.com/polonair/dialtime-gate/issues"
             },
-            "time": "2016-10-06 20:26:07"
+            "time": "2016-10-21 18:14:11"
         },
         {
             "name": "doctrine/annotations",
@@ -987,16 +987,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v2.0.2",
+            "version": "v2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "088c04e2f261c33bed6ca5245491cfca69195ccf"
+                "reference": "c0125896dbb151380ab47e96c621741e79623beb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/088c04e2f261c33bed6ca5245491cfca69195ccf",
-                "reference": "088c04e2f261c33bed6ca5245491cfca69195ccf",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/c0125896dbb151380ab47e96c621741e79623beb",
+                "reference": "c0125896dbb151380ab47e96c621741e79623beb",
                 "shasum": ""
             },
             "require": {
@@ -1031,7 +1031,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-04-03 06:00:07"
+            "time": "2016-10-17 15:23:22"
         },
         {
             "name": "psr/cache",
@@ -1081,16 +1081,16 @@
         },
         {
             "name": "psr/log",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "5277094ed527a1c4477177d102fe4c53551953e0"
+                "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/5277094ed527a1c4477177d102fe4c53551953e0",
-                "reference": "5277094ed527a1c4477177d102fe4c53551953e0",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
+                "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
                 "shasum": ""
             },
             "require": {
@@ -1124,7 +1124,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-09-19 16:02:08"
+            "time": "2016-10-10 12:19:37"
         },
         {
             "name": "swiftmailer/swiftmailer",
