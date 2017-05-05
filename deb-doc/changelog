@@ -1,3 +1,9 @@
+dialtime-gate (0.1.16) stable; urgency=medium
+
+  * Bugs fixed.
+
+ -- Alexander Mosyagin <fixnim@gmail.com>  Fri, 05 May 2017 20:39:54 -0400
+
 dialtime-gate (0.1.15) stable; urgency=medium
 
   * Bugs fixed.
